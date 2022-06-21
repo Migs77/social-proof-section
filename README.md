@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://github.com/Migs77/social-proof.git)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://migs77.github.io/social-proof-section/)
 
 ## My process
 
